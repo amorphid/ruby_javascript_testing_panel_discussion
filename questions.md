@@ -3,4 +3,3 @@
 * A +1 vote an already submitted question.  One vote per person per question please :)
 
 ## Submitted questions:
-
