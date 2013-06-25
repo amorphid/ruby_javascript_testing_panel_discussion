@@ -1,6 +1,7 @@
 # Submit pull requests for either of the following:
 * A question you'd like to have a panelist answer.
 * A +1 vote an already submitted question.  One vote per person per question please :)
+* Example - SHA: ecce5153739db2502a9fc549549942d67f4096c6
 
 ## Submitted questions:
 
