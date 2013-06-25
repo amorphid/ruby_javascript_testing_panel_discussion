@@ -16,4 +16,7 @@ A:  Here come the elephants.
 
 Q:  What did Tarzan say when the elephants were coming over the hill?
 A:  Here come the plums.  He was colorblind.
+
+Q:  How do you find out how heavy a whale is?
+A:  Take it to a whale-weigh station. 
 ```
