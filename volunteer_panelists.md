@@ -20,3 +20,15 @@ A:  Here come the plums.  He was colorblind.
 Q:  How do you find out how heavy a whale is?
 A:  Take it to a whale-weigh station. 
 ```
+
+## Andy Peterson
+
+I'd be interested on being on this panel. I've been TDDing for years, first in Java, 
+then Ruby and soon thereafter Javascript. I'm a big believer. I like
+to talk about
+* picking an appropriate set of tools for your project
+* when's it not appropriate to TDD?
+* how do you know when you're over testing?
+* when it is too hard, what can I do?
+
+See you there!
